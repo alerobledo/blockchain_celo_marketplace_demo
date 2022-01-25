@@ -15,3 +15,5 @@ urls:
 
 
 local url: http://localhost:3000/
+
+github demo url: https://alerobledo.github.io/blockchain_celo_marketplace_demo/
